@@ -34,3 +34,24 @@ h1 {
     background-color: wheat;
     color: black;
 }
+
+.multiplo-3{
+    background-color: tomato;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.multiplo-5 {
+    background-color: yellowgreen;
+    color: rgb(117, 79, 7);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.multiplo-15 {
+    background-color: crimson;
+    color: sandybrown;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
