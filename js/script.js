@@ -26,6 +26,9 @@ for(let i = 1; i <= rounds; i++){
 
     // Definisco i casi di esecuzione
 
+    // ALTERNATIVA: Per accorciare il primo if potevi calcolare i minimo comune multilo tra i due numeri e inserire quello nel modulo. 
+    // if(!(i % 15))
+    
     if((!(i % 3)) && (!(i % 5))) {
 
         boxDiv.append('FizzBuzz');
